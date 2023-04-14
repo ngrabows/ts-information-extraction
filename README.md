@@ -9,6 +9,6 @@ After the installation you should activate the ```TSIE``` environment.
 
 ```conda activate TSIE```
 
-Now, you are ready to run all notebooks in this repositiory by starting jupyter notebook.
+Now, you are ready to run all notebooks in this repository by starting jupyter notebook.
 
 ```jupyter notebook```
