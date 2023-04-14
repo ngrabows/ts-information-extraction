@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+.Rproj.user
+.Rhistory
+.DS_Store
+.Rapp.history
+*.ipynb

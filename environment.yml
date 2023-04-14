@@ -1,0 +1,32 @@
+name: TSIE
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9.12
+  - jupytext
+  - scikit-learn=0.24.1
+  - pandas=1.2.1
+  - seaborn=0.11.1
+  - numpy
+  - notebook
+  - mysql-connector-python
+  - sqlalchemy
+  - matplotlib=3.3.4
+  - dash=1.20.0
+  - jedi=0.17.2
+  - werkzeug=2.0.1
+  - nb_conda_kernels
+  - pypdf2
+  - r-base=4.0.5
+  - r-dplyr=1.0.3
+  - r-feasts=0.1.6
+  - r-fabletools=0.3.1
+  - r-lubridate=1.7.9.2
+  - r-moments=0.14.0
+  - r-tsibble=0.9.3
+  - rpy2
+  - r-irkernel
+  - r-data.table=1.13.6
+  - r-dplyr
+  - r-readr
