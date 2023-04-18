@@ -9,6 +9,7 @@ After the installation you should activate the ```TSIE``` environment.
 
 ```conda activate TSIE```
 
+Before using the scripts you should unzip the ```data``` folder, which contains the raw time series dataset used in the ```experiment & results``` chapter of our paper.
 Now, you are ready to run all notebooks in this repository by starting jupyter notebook.
 
 ```jupyter notebook```
